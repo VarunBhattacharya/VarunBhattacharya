@@ -1,6 +1,6 @@
 # Hey there, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi+!+its+Varun+Bhattacharya;I+am+a+Machine+Learning+Engineer.+.+.;a+Data+Science+Enthusiast.+.+.;a+Tech+Blogger.+.+.;and+an+aspiring+Software+Engineer.+.+.+.+."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi+!+its+Varun+Bhattacharya;I+am+a+Machine+Learning+Engineer+.+.+.;a+Data+Science+Enthusiast+.+.+.;a+Tech+Blogger.+.+.;and+an+aspiring+Software+Engineer+.+.+.+.+."/>
  
  <p>- <i>I am hardworking and ambitious individual with a great passion for the software industry. I am extremely patient, self-motivated, and very adaptable to accomplish challenging objectives. Very much successful in building strong and healthy relationships with colleagues in order to achieve better results. Also, a classical pianist, likes to listen to classical piano music and play them as well with favorite pianist Liszt.</i></p>
 
