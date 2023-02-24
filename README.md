@@ -54,7 +54,7 @@
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhattacharya&theme=algolia"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhattacharya&theme=algolia?username=VarunBhattacharya&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/? username=VarunBhattacharya&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=algolia" />
 </p>
      
   </td>
