@@ -50,11 +50,11 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VarunBhattacharya&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VarunBhattacharya&theme=algolia&show_icons=true" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhattacharya"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhattacharya&theme=algolia"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhattacharya&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhattacharya&theme=algolia?username=VarunBhattacharya&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
