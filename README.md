@@ -24,7 +24,7 @@
 <table width="100%" >
 
 <tr>
-<td width="40%">
+<td width="50%">
      
 ## 🛠️ Skills
 
@@ -42,6 +42,10 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-05122A?style=flat&logo=Data%20Science&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat&logo=Microsoft%20Azure&logoColor=white) ![Big Query](https://img.shields.io/badge/Big%20Query-05122A?style=flat&logo=Big%20Query&logoColor=white) ![Databases](https://img.shields.io/badge/Databases-05122A?style=flat&logo=Databases&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Designing](https://img.shields.io/badge/Designing-05122A?style=flat&logo=Designing&logoColor=white) ![Image Editing](https://img.shields.io/badge/Image%20Editing-05122A?style=flat&logo=Image%20Editing&logoColor=white) ![Video Editing](https://img.shields.io/badge/Video%20Editing-05122A?style=flat&logo=Video%20Editing&logoColor=white)&nbsp;
+
+<p align = "center">
+<img width = "100%" src = "https://metrics.lecoq.io/VarunBhattacharya">
+</p>
      
 </td>
     <td>
@@ -55,6 +59,8 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhattacharya&theme=algolia"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhattacharya&theme=algolia&layout=compact" />
+  <br>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=VarunBhattacharya&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" height = 250 />
 </p>
      
   </td>
