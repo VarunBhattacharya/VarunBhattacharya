@@ -5,19 +5,18 @@
  <p>- <i>I am hardworking and ambitious individual with a great passion for the software industry. I am extremely patient, self-motivated, and very adaptable to accomplish challenging objectives. Very much successful in building strong and healthy relationships with colleagues in order to achieve better results. Also, a classical pianist, likes to listen to classical piano music and play them as well with favorite pianist Liszt.</i></p>
 
 
-<!--<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />-->
-<img src = "https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" width = "50%" align = "right"/>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## 🙋‍♂️ About Me
 
 </br>
 
-- 🔧 I’m currently working on with Samsung R&D Institute India, Bangalore and TE Connectivity, Bangalore.
+<!--- 🔧 I’m currently working on with Samsung R&D Institute India, Bangalore and TE Connectivity, Bangalore.-->
 - 💡 I’m curious about ...Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
 - 📖 I’m currently improving myself in these fields.
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📝 Some of my technical blogs can be found in [CodeSpeedy Technologies](https://www.codespeedy.com/author/varunbhattacharya/).
-- 📫 You can reach me in varunb.working@gmail.com.
+<!--- 📫 You can reach me in varunb.working@gmail.com.-->
 
 </br>
 
