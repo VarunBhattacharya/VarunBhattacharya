@@ -17,6 +17,7 @@
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📝 Some of my technical blogs can be found in [CodeSpeedy Technologies](https://www.codespeedy.com/author/varunbhattacharya/).
 <!--- 📫 You can reach me in varunb.working@gmail.com.-->
+- 📃 Please find my [resume](https://drive.google.com/file/d/1gh6BQRzQIydKXSkJfrMwRIKDyrGfX14w/view?usp=share_link) and reach out to me for more opportunities.
 
 </br>
 
