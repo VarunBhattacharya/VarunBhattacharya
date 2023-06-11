@@ -93,6 +93,7 @@
 <a href="https://www.linkedin.com/in/varunbhattacharya/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;
 <a href="mailto:varunb.working@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 <a href = "https://github.com/VarunBhattacharya"><img width="100px" alt = "Github" src = "https://img.shields.io/badge/Github-7289DA?style=flat&logo=github&logoColor=white"/></a>
+<a href = "https://varunbhattacharya.github.io/"><img width="100px" alt = "Website" src = "https://img.shields.io/badge/Website-Website-blue"/></a>
 
 </br>
 </br>
