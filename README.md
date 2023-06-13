@@ -55,7 +55,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=VarunBhattacharya&theme=algolia&show_icons=true" />
+  <!--<img width="100%" src="https://github-readme-stats.vercel.app/api?username=VarunBhattacharya&theme=algolia&show_icons=true" />-->
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhattacharya&theme=algolia"/>
  </br>
